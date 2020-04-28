@@ -8,7 +8,7 @@ when entered an todo, he/she can delete todo whenever he want. this is basic of 
 ### DON'T FORGET TO RUN LOCAL HOST. 
 
 ##### Try the live demo right [here](https://feridunakyol.github.io/practical-javascript/) , it looks something like this:
-![](https://raw.githubusercontent.com/feridunAKYOL/practical-javascript/master/todoList.png)  
+![](https://raw.githubusercontent.com/feridunAKYOL/restful-pjs/master/practical-Js-Server.png)  
 The main aim is review the javaScript lessons. In fact this practical-Javascript lessons are basic for javaScript. It is good for someone who try to learn JavaScript and he just started. 
 #### INSPIRATION
 Our project is depends on [watch and code/Practical Javascript](https://watchandcode.com/p/practical-javascript) 
