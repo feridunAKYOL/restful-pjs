@@ -1,48 +1,29 @@
 {
   "todos": [
     {
-      "todoText": "new todo",
+      "todoText": "second",
       "completed": false,
-      "id": 1
-    },
-    {
-      "completed": true,
       "id": 2
     },
     {
-      "todoText": "third todo",
-      "completed": true,
+      "todoText": "third",
+      "completed": false,
       "id": 3
     },
     {
-      "completed": false,
-      "todoText": "l4w7",
-      "id": 4
+      "todoText": "finish project",
+      "completed": true,
+      "id": 5
     },
     {
+      "todoText": "start the new week",
       "completed": false,
-      "todoText": "a2ddt",
       "id": 6
     },
     {
-      "completed": false,
-      "todoText": "6wdch",
-      "id": 7
-    },
-    {
-      "completed": false,
-      "todoText": "qx0zm",
-      "id": 8
-    },
-    {
+      "todoText": "don't give up",
       "completed": true,
-      "todoText": "rjai",
-      "id": 9
-    },
-    {
-      "completed": false,
-      "todoText": "wify",
-      "id": 10
+      "id": 7
     }
   ]
 }
