@@ -7,7 +7,7 @@ In the program someone can store what to do and also can change the todo list.. 
 when entered an todo, he/she can delete todo whenever he want. this is basic of the webpage.
 ### DON'T FORGET TO RUN LOCAL HOST. 
 
-##### Try the live demo right [here](https://feridunakyol.github.io/practical-javascript/) , it looks something like this:
+##### Try the live demo right [here](https://feridunakyol.github.io/restful-pjs/) , it looks something like this:
 ![](https://raw.githubusercontent.com/feridunAKYOL/restful-pjs/master/practical-Js-Server.png)  
 The main aim is review the javaScript lessons. In fact this practical-Javascript lessons are basic for javaScript. It is good for someone who try to learn JavaScript and he just started. 
 #### INSPIRATION
